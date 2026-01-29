@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Base page defaults (keep minimal; most styling comes from Tailwind + component CSS) */
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
